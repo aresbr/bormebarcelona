@@ -295,10 +295,10 @@ def main():
     estado.write_text(json.dumps(sorted(visto)))
 
     print(f"\n{len(filas)} coincidencias -> {args.out}\n", file=sys.stderr)
-    for fila in filas[:40]:
+        for fila in filas:
         print(f"[{fila['fecha']}] {fila['empresa']}")
         if fila["texto"]:
-            print(f"    {fila['texto'][:220]}")
+            print(f"    {fila['texto']
 
 
 if __name__ == "__main__":
