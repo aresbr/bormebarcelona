@@ -33,3 +33,23 @@ jobs:
 
       - name: Enviar aviso
         if: steps.borme.outputs.hay == 'si'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USER }}
+          password: ${{ secrets.MAIL_PASS }}
+          from: Vigilancia BORME
+          to: ${{ secrets.MAIL_USER }}
+          subject: BORME Barcelona
+          body: ${{ env.CUERPO }}
+          attachments: borme_alertas.csv
+
+      - name: Guardar resultados
+        run: |
+          git config user.name "bot-borme"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "BORME $(date +%F)" || echo "sin novedades"
+          git push
