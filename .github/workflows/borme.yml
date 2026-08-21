@@ -21,7 +21,7 @@ jobs:
       - name: Revisar el BORME
         id: borme
         run: |
-          python borme_bcn.py --actos actos.txt --out borme_alertas.csv > resumen.txt
+        python borme_bcn.py --volcado-completo --out borme_alertas.csv > resumen.txt
           if [ -s resumen.txt ]; then echo "hay=si" >> $GITHUB_OUTPUT; fi
 
       - name: Enviar aviso
