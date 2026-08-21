@@ -1,0 +1,48 @@
+name: Vigilancia BORME Barcelona
+
+on:
+  schedule:
+    - cron: '30 8 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+
+      - name: Revisar el BORME
+        id: borme
+        run: |
+          python borme_bcn.py --volcado-completo --out borme_alertas.csv > resumen.txt
+          if [ -s resumen.txt ]; then echo "hay=si" >> $GITHUB_OUTPUT; fi
+
+      - name: Enviar aviso
+        if: steps.borme.outputs.hay == 'si'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USER }}
+          password: ${{ secrets.MAIL_PASS }}
+          from: Vigilancia BORME
+          to: ${{ secrets.MAIL_USER }}
+          subject: BORME Barcelona
+          body: file://resumen.txt
+          attachments: borme_alertas.csv
+
+      - name: Guardar resultados
+        run: |
+          git config user.name "bot-borme"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "BORME $(date +%F)" || echo "sin novedades"
+          git push

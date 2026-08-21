@@ -257,6 +257,9 @@ def main():
     pat_empresas = carga_patrones(args.empresas)
     pat_actos = carga_patrones(args.actos)
 
+    if not pat_empresas and not pat_actos:
+        args.volcado_completo = True
+
     if args.desde:
         fechas = list(rango(args.desde, args.hasta or args.desde))
     else:
@@ -295,10 +298,10 @@ def main():
     estado.write_text(json.dumps(sorted(visto)))
 
     print(f"\n{len(filas)} coincidencias -> {args.out}\n", file=sys.stderr)
-        for fila in filas:
+    for fila in filas:
         print(f"[{fila['fecha']}] {fila['empresa']}")
         if fila["texto"]:
-            print(f"    {fila['texto']
+            print(f"    {fila['texto']}")
 
 
 if __name__ == "__main__":
