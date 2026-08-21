@@ -24,13 +24,6 @@ jobs:
           python borme_bcn.py --actos actos.txt --out borme_alertas.csv > resumen.txt
           if [ -s resumen.txt ]; then echo "hay=si" >> $GITHUB_OUTPUT; fi
 
-      - name: Preparar el cuerpo del correo
-        if: steps.borme.outputs.hay == 'si'
-        run: |
-          echo "CUERPO<<FIN" >> $GITHUB_ENV
-          cat resumen.txt >> $GITHUB_ENV
-          echo "FIN" >> $GITHUB_ENV
-
       - name: Enviar aviso
         if: steps.borme.outputs.hay == 'si'
         uses: dawidd6/action-send-mail@v3
@@ -43,7 +36,7 @@ jobs:
           from: Vigilancia BORME
           to: ${{ secrets.MAIL_USER }}
           subject: BORME Barcelona
-          body: ${{ env.CUERPO }}
+          body: file://resumen.txt
           attachments: borme_alertas.csv
 
       - name: Guardar resultados
