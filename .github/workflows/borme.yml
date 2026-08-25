@@ -34,7 +34,7 @@ jobs:
           username: ${{ secrets.MAIL_USER }}
           password: ${{ secrets.MAIL_PASS }}
           from: Vigilancia BORME
-          to:  'economiacat@efe.com' 
+          to:  ${{ secrets.MAIL_TO }} 
           subject: BORME Barcelona
           body: file://resumen.txt
           attachments: borme_alertas.csv
