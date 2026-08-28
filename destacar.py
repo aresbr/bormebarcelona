@@ -4,8 +4,10 @@ destacar.py — Lee el CSV del día y genera una cabecera con lo potencialmente
 noticiable, para colocarla al principio del correo.
 
 Dos pasos:
-  1. Un prefiltro por reglas descarta el trámite puro (nombramientos rutinarios,
-     cambios de denominación, depósito de cuentas). Barato y transparente.
+  1. Un prefiltro por reglas descarta el trámite puro (cambios de
+     denominación u objeto social, depósito de cuentas). Barato y
+     transparente. Los nombramientos SÍ pasan siempre: ahí es donde
+     aparecen los administradores y apoderados.
   2. Lo que sobrevive se manda al modelo, que ordena y explica por qué.
 
 El listado completo NO se toca: sigue yendo entero debajo y en el CSV.
@@ -31,11 +33,16 @@ PROVEEDOR = os.environ.get("PROVEEDOR_IA", "gemini")
 
 MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-flash-lite-latest")
 MODELO_ANTHROPIC = "claude-sonnet-5"
-MAX_ENTRADAS = 900          # tope de seguridad para el prefiltro
+MAX_ENTRADAS = 2000         # tope de seguridad para el prefiltro
 
 # Lo que casi nunca es noticia por sí solo.
+# "nombramientos" NO está aquí a propósito: es donde aparecen los nombres de
+# administradores y apoderados (p. ej. una familia conocida entrando en el
+# consejo), y filtrarlo por regla le quita al modelo la posibilidad de
+# reconocerlos. Es el propio modelo el que decide si un nombramiento es
+# trámite o noticia, no el prefiltro.
 RUIDO = [
-    "nombramientos", "reeleccion", "cambio de denominacion social",
+    "reeleccion", "cambio de denominacion social",
     "cambio de objeto social", "depos", "situacion concursal fin",
 ]
 
