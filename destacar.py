@@ -31,7 +31,7 @@ PROVEEDOR = os.environ.get("PROVEEDOR_IA", "gemini")
 
 MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-flash-lite-latest")
 MODELO_ANTHROPIC = "claude-sonnet-5"
-MAX_ENTRADAS = 350          # tope de seguridad para el prefiltro
+MAX_ENTRADAS = 900          # tope de seguridad para el prefiltro
 
 # Lo que casi nunca es noticia por sí solo.
 RUIDO = [
@@ -55,6 +55,12 @@ interesar a un periodista de Economía de la Agencia EFE.
 
 Mira siempre los nombres de administradores y apoderados, no solo el de la
 sociedad. Ahí suele estar lo interesante.
+
+Ojo: las ampliaciones o reducciones de capital, operaciones acordeón y
+cambios de domicilio son trámite rutinario en miles de empresas pequeñas.
+El importe en euros NO las hace noticia por sí solo. Descártalas salvo que
+la empresa o alguna persona citada sea reconocible, o el caso esté ligado
+a un concurso, insolvencia o procedimiento judicial.
 
 Selecciona hasta doce entradas y ordénalas de más a menos interesante.
 
