@@ -29,7 +29,7 @@ import urllib.request
 # Proveedor: "gemini" (capa gratuita) o "anthropic" (de pago).
 PROVEEDOR = os.environ.get("PROVEEDOR_IA", "gemini")
 
-MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-1.5-flash")
+MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
 MODELO_ANTHROPIC = "claude-sonnet-5"
 MAX_ENTRADAS = 350          # tope de seguridad para el prefiltro
 
