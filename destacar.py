@@ -22,12 +22,13 @@ import csv
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 
 # Proveedor: "gemini" (capa gratuita) o "anthropic" (de pago).
 PROVEEDOR = os.environ.get("PROVEEDOR_IA", "gemini")
 
-MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
+MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-flash-latest")
 MODELO_ANTHROPIC = "claude-sonnet-5"
 MAX_ENTRADAS = 350          # tope de seguridad para el prefiltro
 
@@ -107,14 +108,17 @@ def _pide(url, cuerpo, cabeceras):
 def _gemini(lista):
     url = ("https://generativelanguage.googleapis.com/v1beta/models/"
            f"{MODELO_GEMINI}:generateContent")
-    datos = _pide(url, {
-        "system_instruction": {"parts": [{"text": CONTEXTO}]},
-        "contents": [{"parts": [{"text": lista}]}],
-        "generationConfig": {"maxOutputTokens": 4000, "temperature": 0.2},
-    }, {
-        "content-type": "application/json",
-        "x-goog-api-key": os.environ["GEMINI_API_KEY"],
-    })
+    try:
+        datos = _pide(url, {
+            "system_instruction": {"parts": [{"text": CONTEXTO}]},
+            "contents": [{"parts": [{"text": lista}]}],
+            "generationConfig": {"maxOutputTokens": 4000, "temperature": 0.2},
+        }, {
+            "content-type": "application/json",
+            "x-goog-api-key": os.environ["GEMINI_API_KEY"],
+        })
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"{e} (modelo: {MODELO_GEMINI})") from e
     partes = datos["candidates"][0]["content"].get("parts", [])
     texto = "".join(p.get("text", "") for p in partes).strip()
     if not texto:
