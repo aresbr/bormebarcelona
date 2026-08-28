@@ -29,7 +29,7 @@ import urllib.request
 # Proveedor: "gemini" (capa gratuita) o "anthropic" (de pago).
 PROVEEDOR = os.environ.get("PROVEEDOR_IA", "gemini")
 
-MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-flash-latest")
+MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-flash-lite-latest")
 MODELO_ANTHROPIC = "claude-sonnet-5"
 MAX_ENTRADAS = 350          # tope de seguridad para el prefiltro
 
@@ -102,7 +102,7 @@ def pregunta(entradas):
 CODIGOS_REINTENTABLES = (429, 500, 503, 504)  # saturacion o caida puntual
 
 
-def _pide(url, cuerpo, cabeceras, reintentos=3, espera=5):
+def _pide(url, cuerpo, cabeceras, reintentos=5, espera=4):
     req = urllib.request.Request(url, data=json.dumps(cuerpo).encode(),
                                  headers=cabeceras)
     for intento in range(reintentos):
@@ -112,7 +112,7 @@ def _pide(url, cuerpo, cabeceras, reintentos=3, espera=5):
         except urllib.error.HTTPError as e:
             if e.code not in CODIGOS_REINTENTABLES or intento == reintentos - 1:
                 raise
-            time.sleep(espera * (intento + 1))
+            time.sleep(espera * (2 ** intento))
 
 
 def _gemini(lista):
