@@ -12,8 +12,8 @@ jobs:
   revisar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - run: pip install requests
@@ -23,6 +23,14 @@ jobs:
         run: |
           python borme_bcn.py --volcado-completo --out borme_alertas.csv > resumen.txt
           if [ -s resumen.txt ]; then echo "hay=si" >> $GITHUB_OUTPUT; fi
+
+      - name: Destacar lo relevante
+        if: steps.borme.outputs.hay == 'si'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python destacar.py --fecha $(date +%Y%m%d) --out destacado.txt
+          cat destacado.txt resumen.txt > correo.txt
 
       - name: Enviar aviso
         if: steps.borme.outputs.hay == 'si'
@@ -34,9 +42,9 @@ jobs:
           username: ${{ secrets.MAIL_USER }}
           password: ${{ secrets.MAIL_PASS }}
           from: Vigilancia BORME
-          to:  ${{ secrets.MAIL_TO }} 
+          to: ${{ secrets.MAIL_TO }}
           subject: BORME Barcelona
-          body: file://resumen.txt
+          body: file://correo.txt
           attachments: borme_alertas.csv
 
       - name: Guardar resultados
