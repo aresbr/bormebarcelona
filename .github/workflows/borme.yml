@@ -2,8 +2,9 @@ name: Vigilancia BORME Barcelona
 
 on:
   schedule:
-    - cron: '0 5 * * 1-5'
-    - cron: '0 7 * * 1-5'
+    # Cambiado a minutos no redondos (05:17 y 07:23 UTC) para evitar saturación de la API
+    - cron: '17 5 * * 1-5'
+    - cron: '23 7 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -13,11 +14,13 @@ jobs:
   revisar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
+
+      - run: pip install requests google-generativeai
 
       - name: Revisar el BORME
         id: borme
