@@ -22,6 +22,7 @@ import csv
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 
@@ -98,11 +99,20 @@ def pregunta(entradas):
     return _gemini(lista)
 
 
-def _pide(url, cuerpo, cabeceras):
+CODIGOS_REINTENTABLES = (429, 500, 503, 504)  # saturacion o caida puntual
+
+
+def _pide(url, cuerpo, cabeceras, reintentos=3, espera=5):
     req = urllib.request.Request(url, data=json.dumps(cuerpo).encode(),
                                  headers=cabeceras)
-    with urllib.request.urlopen(req, timeout=180) as r:
-        return json.load(r)
+    for intento in range(reintentos):
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code not in CODIGOS_REINTENTABLES or intento == reintentos - 1:
+                raise
+            time.sleep(espera * (intento + 1))
 
 
 def _gemini(lista):
