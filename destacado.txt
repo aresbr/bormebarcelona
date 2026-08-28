@@ -1,9 +1,9 @@
 BORME Barcelona — 20260828
-282 entradas en total, 99 pasan el prefiltro.
+564 entradas en total, 198 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-[No se pudo generar la selección: HTTP Error 404: Not Found]
+[No se pudo generar la selección: HTTP Error 503: Service Unavailable (modelo: gemini-flash-latest)]
 Revisa el listado completo de abajo.
 
 ------------------------------------------------------------
