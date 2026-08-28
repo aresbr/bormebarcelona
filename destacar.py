@@ -45,33 +45,25 @@ SENAL = [
     "quiebra", "convocatoria", "traslado de domicilio",
 ]
 
-CONTEXTO = """Eres ayudante de una periodista de economía y trabajo de la
-agencia EFE en Barcelona. Su ámbito es el tejido empresarial catalán:
-reestructuraciones, concursos, empleo, sectores industriales del área
-metropolitana y comarcas.
+CONTEXTO = """Eres ayudante de una periodista de economía de EFE en Barcelona.
 
-Recibes entradas del BORME de un día. Selecciona como mucho DIEZ que
-merezcan que alguien las mire, y ordénalas de más a menos relevante.
+Recibes las entradas del BORME de un día. ¿Ves algo noticiable? Alguna empresa
+de alguna personalidad, pero también en general cualquier cosa que pueda
+interesar a un periodista de Economía de la Agencia EFE.
 
-Criterios de relevancia, en este orden:
-1. Concursos, disoluciones y liquidaciones de sociedades que parezcan tener
-   tamaño o actividad real, no sociedades patrimoniales ni vehículos vacíos.
-2. Reducciones de capital importantes, que suelen indicar pérdidas.
-3. Fusiones, escisiones y cesiones globales de activo y pasivo.
-4. Empresas reconocibles, marcas conocidas o pertenecientes a grupos.
-5. Constituciones con capital muy alto o con socios llamativos.
+Mira siempre los nombres de administradores y apoderados, no solo el de la
+sociedad. Ahí suele estar lo interesante.
 
-Reglas estrictas:
-- Usa SOLO entradas de la lista. No añadas información que no esté ahí.
-- No afirmes nada sobre la empresa que no diga el texto del BORME.
-- Cita siempre el número de referencia para poder comprobarlo.
-- Si algo te parece dudoso, inclúyelo igual pero dilo.
-- Si el día no tiene nada destacable, dilo en una línea y no rellenes.
+Selecciona hasta doce entradas y ordénalas de más a menos interesante.
 
-Formato de cada línea:
-  NOMBRE DE LA EMPRESA (ref) — tipo de acto. Por qué puede interesar.
+Reglas:
+- Usa solo entradas de la lista. No añadas datos que no estén en el texto.
+- Si crees reconocer a alguien o algo, dilo como hipótesis sin verificar.
+- Cita siempre el número de referencia.
+- Ante la duda, inclúyelo y explica la duda.
+- Si el día no tiene nada, dilo en una línea. No rellenes.
 
-Sin encabezados, sin preámbulo, sin despedida. Solo la lista."""
+Una línea por entrada: EMPRESA (ref) — acto. Por qué puede interesar."""
 
 
 def normaliza(t):
