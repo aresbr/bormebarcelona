@@ -1,20 +1,31 @@
-BORME Barcelona — 20260925
-370 entradas en total, 354 pasan el prefiltro.
+BORME Barcelona — 20260928
+337 entradas en total, 315 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-- MGC INSURANCE, MUTUA DE SEGUROS Y REASEGUROS A PRIMA FIJA (BORME-C-2026-5181 y BORME-C-2026-5182) — Fusión por absorción de Montepio del Colectivo Portuario de Valencia y de Mutualitat de Previsió Escolar Sant Josep de Calassanç. Operación de concentración en el sector asegurador y de mutualidades de previsión social.
-- PARLEM TELECOM COMPANYIA DE TELECOMUNICACIONS S.A (429671) — Múltiples ampliaciones de capital sucesivas. Interesa por tratarse de una compañía de telecomunicaciones cotizada en el BME Growth con sede en Barcelona.
-- GTD SISTEMAS DE INFORMACION SA (429650) — Revocaciones y nombramientos (destaca la entrada de Diana Spanish Bidco SL como administradora solidaria con Marta Escudero). Puede indicar movimientos accionariales o de reestructuración corporativa en esta conocida firma tecnológica e ingeniera de sistemas.
-- EUROPASTRY SA (429825) — Ampliación de capital. Importante operación de refuerzo patrimonial en uno de los gigantes catalanes de la agroalimentación y la bollería industrial.
-- FIATC MUTUA DE SEGUROS Y REASEGUROS (429572) — Revocaciones y nombramientos masivos de apoderados. Movimiento relevante en la cúpula de gestión y poderes de una de las principales mutuas de seguros catalanas.
-- NISSAN MOTOR ESPAÑA S.A (429728) — Nombramientos de consejeros (Christian Costaganna y Vanessa Marquez Cabello). Interesa por el seguimiento industrial de la marca automovilística y la transformación de sus antiguos centros en Barcelona.
-- ALDUS ART 2025 S.L (429546) — Ampliación de capital que eleva el capital social resultante suscrito a 1.220.000,00 euros. Aunque las ampliaciones suelen ser trámite, el volumen de más de un millón de euros en el capital resultante justifica la atención.
-- UNIÓN DE PRODUCTORES DE EQUIPOS ELÉCTRICOS Y ELECTRONICOS S.L (429614) — Constitución de una sociedad sin ánimo de lucro enfocada a la creación y gestión de un Sistema Colectivo de Responsabilidad Ampliada del Productor (SCRAP-AEE). Relevante por su impacto en la normativa medioambiental y de reciclaje de RAEE.
-- WACKER QUIMICA IBERICA SA (429561) — Renovación de la cúpula directiva con cese y nombramiento de presidente y consejeros (destaca Peter Alto Summo). Filial en España de la multinacional química alemana.
-- VETULA STRATEGIC SOLUTIONS S.L (429852) — Fusión por absorción de las sociedades Tricuta Consulting S.L. y Aitaso Investments S.L. Operación de concentración societaria y simplificación de estructura corporativa.
-- MUNDO CERO AIE (429580) — Ampliación de capital e incorporación de nuevos socios (Carlos Federico Heredia Tapia, Sergio Bolaños Palau, María Amparo Paula González de Castejón Llano-Ponte y Bernardo Uwe Ruecker-Embden). Operativa típica de Agrupación de Interés Económico con entrada de inversores particulares.
-- FAST NEGOCE 2021 S.L (429511) — Otros conceptos: adquisición de nacionalidad española y asignación de DNI del administrador único y socio único, Don El Mamoune El Jaouhari (ahora El Mamoune El Jaouhari Achary). Se incluye por la inusual mención registral de un cambio de datos de extranjería en un administrador, aunque el interés periodístico es menor.
+PARLEM TELECOM COMPANYIA DE TELECOMUNICACIONS S.A (431314) — Nombramientos de consejeros dominicales e independientes (Sara Secall Ruiz, Aniol Brosa Muela, Sara Sanz Achiaga, Roger Pique Pijuan, Silvia Martínez Losas y Eulalia Oms Casanovas). Puede interesar por la renovación y gobernanza en una compañía de telecomunicaciones cotizada catalana.
+
+PARLEM TELECOM COMPANYIA DE TELECOMUNICACIONS S.A (431314) — Nombramientos. (Nota: Duplicado en la selección por relevancia de la compañía operadora de telecomunicaciones).
+
+COBEGA SA (431352) — Revocación y nombramiento de representante (Sol Daurella Comadran deja paso a Sol Vilarrubí Daurella). Interesa por los movimientos familiares en la cúpula de una de las grandes embotelladoras y sociedades de inversión vinculadas a la familia Daurella (Coca-Cola).
+
+HOTELES BESTPRICE SA (431301) — Autorización al órgano de administración para aumentar el capital social. Interesa al tratarse de una cadena hotelera cotizada en expansión.
+
+ABDMATIC INDUSTRIAL SL (431299) — Apertura de la fase de liquidación en concurso voluntario de acreedores (Juzgado Mercantil de Barcelona). Interesa por tratarse de un procedimiento concursal relevante con cese de administrador (José Luis Úbeda Redecillas).
+
+BCN MAPESERVEIS SL (431378) — Nombramiento de administrador concursal (Ferrándiz Abogados SLP) y apertura de fase de liquidación. Interesa por la evolución de este concurso voluntario en los juzgados mercantiles de Barcelona.
+
+LITEXCO INVESTMENTS SL (431521) — Apertura de fase de liquidación en concurso necesario (Juzgado Mercantil de Barcelona). Interesa por el procedimiento concursal forzoso de la sociedad.
+
+LUCDELA-PAN S.L (431370) — Declaración judicial firme de insolvencia por el Tribunal de Instancia de Barcelona. Interesa por su calado económico para seguir la pista de insolvencias locales.
+
+CHARLOTTE TILBURY BEAUTY LIMITED SUCURSAL EN ESPAÑA (431510) — Nombramiento de apoderados y cambio de domicilio social a la plaza Europa de L'Hospitalet de Llobregat. Interesa por el movimiento logístico o de oficinas de una gran firma internacional de cosmética.
+
+WALLAPOP SL (431365) — Nombramiento de auditor de cuentas (Deloitte Auditores SL). Interesa por la relevancia de la plataforma digital de compraventa de segunda mano en el ecosistema tecnológico y económico catalán.
+
+CUPRA RACING S.A (431426) — Nombramientos de apoderados solidarios y mancomunados (Xavier Serra López, Olatz Mendizabal Schaufelberger y Cristina Martín Vázquez). Interesa por la actividad corporativa de la división de competición de la marca automovilística del grupo SEAT.
+
+FRIESLANDCAMPINA IBERIA SL (431285, 431291, 431295, 431297, 431298) — Numerosas revocaciones y nombramientos de apoderados (incluyendo a Puck de Ridder y Sandra Linares Alonso). Interesa por la profunda remodelación de poderes en la filial ibérica de este gigante lácteo multinacional.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
