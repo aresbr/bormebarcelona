@@ -1,19 +1,17 @@
-BORME Barcelona — 20261006
-435 entradas en total, 403 pasan el prefiltro.
+BORME Barcelona — 20261007
+364 entradas en total, 346 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-* MED REAL ESTATE VALUE 1 SICC S.A (443249) — Reducción de capital por 10.000.000,00 euros. Interesa por el volumen de la operación en una sociedad de inversión colectiva de carácter cerrado.
-* BUNGE AGRIBUSINESS IBERICA S.L (443409) — Fusión por absorción de Bunge Iberica Finance S.L. y Bunge Investment Iberica SL. Puede interesar por la reestructuración corporativa de este grupo agroalimentario internacional.
-* HABITATSOFT SL (443410) — Fusión por absorción de Indomio S.L. y cambio de objeto social vinculado a portales inmobiliarios y servicios digitales. Destaca por la concentración en el sector de clasificados y portales inmobiliarios online.
-* FERRERO IBERICA SA (443530) — Nombramiento de auditor (PricewaterhouseCoopers) y cambios en el consejo de administración (entrada de Andrea Cassoli). Interesa al tratarse de la filial de uno de los gigantes mundiales de la confitería.
-* EMBOTITS SALGOT SA (443494) — Reestructuración del consejo de administración (baja de Pere Valeri Salgot Nadal como presidente/consejero, manteniendo el cargo pero sumando a nuevos miembros de la familia y secretarios). Empresa cárnica catalana muy conocida en el sector.
-* COGNIROCK SOLUTIONS S.L (443455) — Ampliación de capital y cambios en el consejo con entrada de vehículos de inversión como Antai Ventures. Puede interesar por la vinculación con el ecosistema *startup* y de capital riesgo barcelonés.
-* PICKING FARMA SA (443512) — Modificación de estatutos y renovación profunda del consejo de administración, con la salida de Filippo D'Ambrogi y la entrada de Andrew Sleiman, Massimo Ammendolea y Felipe de Azevedo Morgulis como presidente. Destaca por los movimientos directivos en esta conocida empresa logística farmacéutica.
-* DERIVADOS DEL AUTOMOVIL EN FLEJE ESTAMPADO SL (443490) — Modificación masiva de poderes solidarios y mancomunados. Interesa por la complejidad en la reestructuración de la representación de esta empresa de componentes de automoción.
-* CARGOLUX AIRLINES INTERNATIONAL SA SUCURSAL EN ESPAÑA (443525) — Extensa renovación de poderes mancomunados y de representación de la sucursal española. Interesa al tratarse de la filial de una de las mayores aerolíneas de carga del mundo.
-* GUZMAN EVOLUCION EMPRESARIAL S.L (443155) — Constitución de sociedad. Como hipótesis no verificada, podría guardar relación con algún miembro de la conocida familia empresarial vinculada históricamente al sector de materias primas y distribución en Cataluña (Guzmán).
-* ARAGONESIA DE APLICACIONES Y TÉCNICAS ELÉCTRICAS, S.A. / RESTO DE ANUNCIOS BORME NACIONAL (BORME-C-2026-5338) — Operaciones corporativas de ámbito nacional (fusiones y absorciones destacadas como la absorción de Ruavieja S.A.U. por Vermutería de Galicia S.L.U. en la ref. BORME-C-2026-5335). Interesan por afectar a marcas de gran consumo muy conocidas en el mercado español.
+444667 | 4FOUNDERS CAPITAL S.G.E.I.C. S.A (444667) — Nombramientos de cargos directivos. Puede interesar por la presencia de perfiles conocidos del ecosistema tecnológico y de capital riesgo como Marek Fodor y Jesús Monleón en la gestora (hipótesis pendiente de verificar identidad con los fundadores del sector).
+444687 | RODES REAL ESTATE S.L (444687) — Fusión por absorción de PROHABIT COLOM S.L. Operación corporativa de concentración en el sector inmobiliario catalán.
+444701 | RAVETLLAT AROMATICS SL (444701) — Cambios en el órgano de administración (ceses y nombramientos de administradores solidarios) y modificaciones estatutarias. Empresa con trayectoria en el sector químico-aromático de la zona del Vallès.
+444739 | ONTHOS IBERIA S.L (444739) — Constitución de sociedad con un capital de 25.000 euros y un objeto social centrado en inteligencia artificial y desarrollo de software, con el fondo o entidad Theia Insights Ltd. como administradora única.
+444775 | H LOEWENTHAL GROUP SL (444775) — Nombramiento de administradores concursales (Arraut y Sala Reixachs SLP) tras la declaración de concurso en el juzgado mercantil. Interesante por tratarse de un procedimiento concursal de persona jurídica.
+444832 | HOTEL INVESTMENT PARTNERS GROUP S.A (444832) — Modificaciones estatutarias profundas, incluyendo la transformación de las acciones de títulos nominativos a anotaciones en cuenta y la designación de Iberclear como entidad encargada del registro contable, además de la aprobación de reglamentos internos. Movimiento de calado en un gran actor del sector hotelero.
+444868 | C.I.R. PUJALTE & NAVARRO SL (444868) — Declaración de concurso voluntario y conclusión rápida con cierre provisional de la hoja registral dictados por el Juzgado Mercantil de Barcelona.
+444930 | DOMAINE SANTA CATALINA SL (444930) — Ampliación de capital por importe de 1.100.000 euros, elevando el capital resultante suscrito hasta los 13,1 millones de euros. Destaca por la magnitud de la cifra en una operación de inyección de recursos.
+444968 | COMAJUAN VIÑALS SL (444968) — Declaración de concurso voluntario y apertura de la fase de liquidación de la sociedad por orden del juzgado mercantil.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
