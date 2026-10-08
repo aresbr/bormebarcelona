@@ -1,17 +1,27 @@
-BORME Barcelona — 20261007
-364 entradas en total, 346 pasan el prefiltro.
+BORME Barcelona — 20261008
+392 entradas en total, 381 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-444667 | 4FOUNDERS CAPITAL S.G.E.I.C. S.A (444667) — Nombramientos de cargos directivos. Puede interesar por la presencia de perfiles conocidos del ecosistema tecnológico y de capital riesgo como Marek Fodor y Jesús Monleón en la gestora (hipótesis pendiente de verificar identidad con los fundadores del sector).
-444687 | RODES REAL ESTATE S.L (444687) — Fusión por absorción de PROHABIT COLOM S.L. Operación corporativa de concentración en el sector inmobiliario catalán.
-444701 | RAVETLLAT AROMATICS SL (444701) — Cambios en el órgano de administración (ceses y nombramientos de administradores solidarios) y modificaciones estatutarias. Empresa con trayectoria en el sector químico-aromático de la zona del Vallès.
-444739 | ONTHOS IBERIA S.L (444739) — Constitución de sociedad con un capital de 25.000 euros y un objeto social centrado en inteligencia artificial y desarrollo de software, con el fondo o entidad Theia Insights Ltd. como administradora única.
-444775 | H LOEWENTHAL GROUP SL (444775) — Nombramiento de administradores concursales (Arraut y Sala Reixachs SLP) tras la declaración de concurso en el juzgado mercantil. Interesante por tratarse de un procedimiento concursal de persona jurídica.
-444832 | HOTEL INVESTMENT PARTNERS GROUP S.A (444832) — Modificaciones estatutarias profundas, incluyendo la transformación de las acciones de títulos nominativos a anotaciones en cuenta y la designación de Iberclear como entidad encargada del registro contable, además de la aprobación de reglamentos internos. Movimiento de calado en un gran actor del sector hotelero.
-444868 | C.I.R. PUJALTE & NAVARRO SL (444868) — Declaración de concurso voluntario y conclusión rápida con cierre provisional de la hoja registral dictados por el Juzgado Mercantil de Barcelona.
-444930 | DOMAINE SANTA CATALINA SL (444930) — Ampliación de capital por importe de 1.100.000 euros, elevando el capital resultante suscrito hasta los 13,1 millones de euros. Destaca por la magnitud de la cifra en una operación de inyección de recursos.
-444968 | COMAJUAN VIÑALS SL (444968) — Declaración de concurso voluntario y apertura de la fase de liquidación de la sociedad por orden del juzgado mercantil.
+BANCO DE SABADELL SA (447741, 447742, 447743, 447744) — Baja de negociación en las bolsas de Barcelona, Madrid, Bilbao y Valencia de 119.749.075 acciones. Puede interesar por la magnitud de la operación bursátil del banco catalán.
+
+FLUIDRA COMMERCIAL SA (447545) — Nombramientos de consejeros y administradores solidarios (Juan José Graham Cruces, Carlos Franquesa Castrillo y Jorge Alberto Mayutorena Montaño) y cese de Javier Tintoré Segura. Interesa por tratarse de la filial comercial de la multinacional catalana Fluidra.
+
+AD SALUTEM INSTITUTE FOR HEALTHY SLEEP SL (447511) — Reducción y simultánea ampliación de capital por 250.000 euros. Puede interesar por el importe significativo y por tratarse de una clínica/instituto especializado en la medicina del sueño en Barcelona.
+
+MOBEL LINEA SL (447721) — Cese de consejeros (Maser 2000 SL) y nombramiento de Jordi Salvadó Hernández, además de nuevos apoderados y cambios en la retribución de la administración. Es una firma clásica de mobiliario de oficina en Cataluña.
+
+CUNOVESA IBERICA S.L (447540) — Nombramiento de administrador concursal (Ojeda Economistes SLP) tras la declaración de concurso voluntario en el Juzgado Mercantil nº 8 de Barcelona. Interesa por afectar a la insolvencia de una sociedad mercantil.
+
+MUMKASHOES S.L (447701) — Apertura de procedimiento especial de liquidación para microempresas y cese del administrador único. Interesa al reflejar el cierre concursal de una firma de calzado.
+
+EGUZKI SOLARCAT S.L (447813) — Nombramiento como administrador único de la empresa pública Energies Renovables Públiques de Catalunya SA en sustitución de una mercantil privada. Puede interesar por la implicación del sector público energético catalán.
+
+GRUP MEDIAPRO S.L (447568) — Nombramiento de apoderada solidaria (María José Villoslada Fumero). La entrada forma parte de una cascada de nombramientos idénticos de apoderamiento en su constelación de filiales (Overon, Globomedia, The Mediapro Studio, etc.), lo que apunta a una reorganización de poderes en el grupo audiovisual.
+
+FLUIDRA EXPORT SA (44785) — Nombramiento de Alberto Sánchez Domingo como consejero en sustitución de Javier Tintoré Segura. Otra entrada relevante dentro de la cúpula exportadora del grupo Fluidra.
+
+DUSCHOLUX IBERICA SA (447546) — Nombramiento de auditor de cuentas (Activa Auditoria & Consultoria SLP). Empresa conocida en el sector de mamparas y equipamiento de baño.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
