@@ -1,20 +1,20 @@
-BORME Barcelona — 20261027
-362 entradas en total, 339 pasan el prefiltro.
+BORME Barcelona — 20261028
+356 entradas en total, 344 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-- SONEPAR SPAIN, S.A.U. (BORME-C-2026-5662) — Fusión por absorción de varias sociedades (Regulació Técnica i Control, varias filiales del grupo Carol y Grup Carol Logística i Gestió). Interesa por ser una operación corporativa de concentración de un gran grupo de distribución de material eléctrico.
-- CAIXABANK TECH S.L (478781) — Nombramientos de cargos (Inés Redín Villafañe, Luis Javier Blas Agüeros, Alberto Javier Rosa Gamez y Antonio Jesús Ariza Matiola) y designación de Luis Javier Blas Agüeros como presidente ejecutivo. Interesa al tratarse de la filial tecnológica de CaixaBank, entidad financiera de gran arraigo en Barcelona.
-- MUTUAL MEDICA, M.P.S. A PRIMA FIJA (478740) — Renovación de la cúpula directiva con múltiples revocaciones y nombramientos, destacando la llegada de Lluis Castells Fuste como presidente. Interesa por ser una entidad de previsión social de gran relevancia en el sector sanitario catalán.
-- GABARRO HERMANOS SA (478733) — Reestructuración del consejo de administración y nombramiento de Ramon Gabarró Taulé como presidente y director general. Interesa por tratarse de una histórica empresa catalana de distribución de tableros y suelos con larga trayectoria.
-- COMSA CORPORACION DE INFRAESTRUCTURAS SL (478768) — Revocaciones y nombramientos de apoderados (destacando la entrada de Marta Tomasa Itarte). Interesa al ser uno de los principales grupos de construcción e infraestructuras con sede en Barcelona.
-- DARES TECHNOLOGY SL (478681) — Revocaciones y nombramientos de administradores en los que figura la sociedad de capital riesgo Inveready Asset Management SGEIC SA (representada por Roger Piqué Pijuan). Interesa por la conexión con el ecosistema de capital riesgo y *startups* de Barcelona.
-- LÍNEA 127 (478706 y 478711) — Nombramientos y revocaciones en LINDE MATERIAL HANDLING IBERICA SA, incluyendo consejeros como Ulrike Therese Just Killy y Joanna Paulina Juárez Solís. Interesa por la relevancia de la filial de esta multinacional de maquinaria industrial en el área metropolitana.
-- HEAD SPAIN SA (478753) — Cambios en el consejo de administración con la entrada de Nicolas Laurent Faure como presidente y nuevos consejeros. Interesa por tratarse de la filial española de la multinacional de material deportivo.
-- LIMPIEZAS INTEGRALES DIRAM SL (478695) — Publicación de auto firme de declaración de concurso voluntario y apertura de la fase de convenio. Interesa al tratarse de un procedimiento concursal en los juzgados mercantiles de Barcelona.
-- 478683 | MARTHE ASISTENCIA SA — Cambio de administrador único a favor de Javier Luis Pérez López y cambio de accionista único a Nelson Asistencia SL. Interesa por tratarse de una modificación societaria relevante en el sector de la asistencia.
-- 478668 | MEDITERRANEAN TISSUE S.L — Cese de administrador y nombramiento de Rahmi Demiral, declarando como socio único a la entidad turca Rakets Moda Anonim Sirketi. Interesa por la entrada de inversión extranjera directa de origen turco en el sector textil/industrial catalán.
-- 478631 | TRIBU STORE S.L — Constitución de sociedad con Rodrigo Omar Baroni como administrador único. Hipótesis: podría estar vinculada al crecimiento del comercio electrónico o intermediación comercial en Barcelona.
+- GLOVOAPP EMEA S.L (481518) — Nombramiento de auditor (KPMG Auditores SL). Destaca por ser la filial de la plataforma de reparto a domicilio Glovo.
+- AUDAX RENOVABLES S.A (481474) — Traslado de la página web corporativa a www.audaxenergy.com. Interesa al tratarse de una de las principales energéticas cotizadas catalanas.
+- CAIXA DE CREDIT DELS ENGINYERS CAJA DE CREDITO DE LOS INGENIEROS SOCIEDAD COOPERATIVA DE CREDITO (481253) — Modificaciones estatutarias. Importante entidad financiera cooperativa arraigada en Barcelona.
+- JAUSAS LEGAL Y TRIBUTARIO SLP (481315) — Nombramientos (Héctor Jausas Farré como presidente y consejero, y Rodrigo Martos Prat como consejero). Movimientos en la cúpula de un conocido despacho de abogados barcelonés.
+- FRACTUS SA (481509) — Nombramiento de auditor (Crowe Auditores España SLP). Empresa emblemática de innovación tecnológica y patentes de telecomunicaciones en Barcelona.
+- GVC GAESCO HOLDING SL (481312) — Revocación de consejero (José Ramón Esteruelas Hernández). Movimiento en el hólding del grupo financiero catalán.
+- LANDON INVESTMENTS SOCIEDAD DE CAPITAL RIESGO SA (481297) — Nombramientos de apoderados mancomunados/solidarios. Vehículo inversor de la familia Gallardo (Almirall).
+- ODBRECHT E&P ESPAÑA SL (481278, 481279, 481280) — Reestructuración de la cúpula directiva con nombramientos de consejeros, presidente y apoderados (destaca Roberto Marchiori Netto). Relevante por su vinculación a la multinacional brasileña.
+- CONSORCI DE SALUT I D'ATENCIO SOCIAL DE CATALUNYA SA (481373) — Modificaciones estatutarias y refundición de estatutos. Ente instrumental clave en el sector sanitario y social catalán.
+- PROMENADE LLEIDA S.L (481288) — Revocación y nombramiento masivo de apoderados. Sociedad ligada al macroproyecto comercial impulsado por Eurofund en Lleida.
+- HOTEL INVESTMENT PARTNERS GROUP S.A (481293) — Revocación de una larga lista de apoderados. Importante plataforma de inversión hotelera (propiedad de Blackstone).
+- CARLES VICENS TORRADAS (481314) — Nombramiento como consejero en VANGUARD LOGISTICS SERVICES SA. Incorporación en la filial logística internacional.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
