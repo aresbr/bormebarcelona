@@ -1,18 +1,17 @@
-BORME Barcelona — 20261104
-374 entradas en total, 352 pasan el prefiltro.
+BORME Barcelona — 20261105
+504 entradas en total, 477 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-- CEMENTOS MOLINS SA (491581) — Nombramiento de auditores (PricewaterhouseCoopers). Puede interesar por tratarse de una de las grandes cotizadas industriales catalanas.
-- DANONE SA (491309) y AGUAS DANONE SA (491555) (refs. 491309 y 491555) — Nombramientos de apoderados (María López Carretero). Interesa por el peso del grupo alimentario en el sector de gran consumo en Barcelona.
-- MARSET ILUMINACION SA (491263) — Modificaciones estatutarias (dividendo preferente de acciones Serie B). Empresa de diseño e iluminación muy conocida en Barcelona.
-- VUELING AIRLINES SA (49132, 49133, 49134, 49135, 49136) — Revocaciones y nombramientos masivos de apoderados y cargos mancomunados. Relevante por la actividad de la aerolínea con base en El Prat.
-- SIZWE SA (491420) — Nombramiento como administrador único de Javier Nart Peñalver (hipótesis: podría tratarse del político y abogado).
-- VISOREN SL (491372) — Ampliación de capital por 450.000 euros (hasta superar los 9,1 millones) y cambios en el consejo con entrada de Fortyseven SL. Empresa destacada en el ámbito de la gestión inmobiliaria pública y social.
-- HEFESTO BIOTECH A.I.E (491453) y HEBE BIOTECH A.I.E (491455) — Transmisión de cuotas, separación de Eira Biotech y nombramiento de liquidadores (Inveready Asset Management). Interesa por la vinculación con el ecosistema de capital riesgo y 'biotech' de Inveready.
-- FAST FORWARD ENGLISH HOS S.L (491388) — Apertura de procedimiento especial de continuación para microempresas (concurso) en el Juzgado Mercantil nº 7 de Barcelona. Interesa por estar ligado a un procedimiento concursal.
-- KHALISTAN BCN 2020 S.L (491406) — Declaración de concurso voluntario y conclusión con cierre provisional de la hoja registral en el Juzgado Mercantil nº 3 de Barcelona. Interesa por tratarse de un procedimiento concursal concluido.
-- LORCUE ASOCIADOS SA (491564) — Declaración de concurso voluntario y conclusión con cierre provisional en el Juzgado Mercantil nº 1 de Barcelona. Interesa por estar ligado a un procedimiento concursal.
+[No se pudo generar la selección: HTTP Error 503: Service Unavailable (modelo: gemini-flash-lite-latest) — {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+]
+Revisa el listado completo de abajo.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
