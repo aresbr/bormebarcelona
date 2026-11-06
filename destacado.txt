@@ -1,17 +1,27 @@
-BORME Barcelona — 20261105
-504 entradas en total, 477 pasan el prefiltro.
+BORME Barcelona — 20261106
+45 entradas en total, 45 pasan el prefiltro.
 
 POSIBLES INTERESES (selección automática, sin verificar)
 
-[No se pudo generar la selección: HTTP Error 503: Service Unavailable (modelo: gemini-flash-lite-latest) — {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-]
-Revisa el listado completo de abajo.
+LOIOLA GESTION INMOBILIARIA, S.L.U. (BORME-C-2026-5852) — Fusión por absorción de catorce sociedades (Artekale 36 Promociones, Debakosta Promociones, Fika 28 Etxe Promozioa, Hirupro Promociones, Loiola Enparan, Loiola Girona, Loiola Huarte, Loiola Land Developers, Loiola Padre Larroca 8, Loiola Zorroaga, Promocion Calle Zabala, Promociones Iturrioz Enea, Soldadu Berri Promociones). Destaca por el volumen masivo de absorciones societarias, lo que apunta a una reorganización o simplificación corporativa de gran calado en el sector inmobiliario.
+
+FOMENTO 2005, S.L. (BORME-C-2026-5847) — Fusión por absorción de Scárpatos Internacional, S.A., Matthiola Internacional, S.A., Corporación Canaria de Gestión Inmobiliaria, S.A. y Rehabilitaciones Deveró, S.L. Interesa por la concentración de múltiples sociedades de gestión inmobiliaria e internacional en una sola matriz.
+
+CLÍNICA CAVADAS, SOCIEDAD LIMITADA PROFESIONAL (BORME-C-2026-5862) — Escisión total o parcial con la beneficiaria Nalpe Patrimonio, S.L. Puede despertar interés periodístico si se trata de la clínica asociada al conocido cirujano Pedro Cavadas, reflejando movimientos de patrimonio o reestructuración societaria de su actividad.
+
+SMALTICERAM ESPAÑA, SOCIEDAD ANONIMA (BORME-C-2026-5858) — Fusión por absorción de Vernis, Sociedad Anónima Unipersonal. Operación de concentración relevante dentro de la industria azulejera y de esmaltes, sector clave en la economía industrial.
+
+JUNCÀ GELATINES, S.L. (BORME-C-2026-5851) — Fusión por absorción de Cogeneració de Banyoles, S.L.U. Interesa por la integración de una planta de cogeneración energética con una conocida industria agroalimentaria/química de Banyoles (Girona).
+
+ALCOHOLES MONTPLET, S.A.U. (BORME-C-2026-5841) — Fusión por absorción de Alcoholera Catalana, S.A. Operación de concentración industrial en el sector químico-alcoholero catalán con marcas de larga trayectoria.
+
+PROMOCIONES INMOBILIARIAS GADES 2000, SOCIEDAD LIMITADA (BORME-C-2026-5865) — Escisión a favor de cinco sociedades beneficiarias (Lantana Patrimonial, Guardacanton Activos, Triada Patrimonial, Fundamento Activo y Arrenda Patrimonial). Una escisión múltiple de gran envergadura patrimonial.
+
+BARRIONUEVO MATERIALES DE CONSTRUCCION, S.L. (BORME-C-2026-5861) — Escisión con creación de tres nuevas sociedades beneficiarias (Barrionuevo Alhaurín, Barrionuevo Coín Materiales de Construcción e Inversiones Inmobiliarias Barrionuevo). Típica reestructuración familiar o de división de negocio local de distribución de materiales.
+
+RECAM LASER S.L.U. (BORME-C-2026-5856) — Fusión por absorción de Mecatres Valles S.L.U. Movimiento de concentración en el sector del metal y la subcontratación industrial en la comarca del Vallès.
+
+EGGSTATIC S.L. (496544) — Corrección de errores en nombramiento de administradores solidarios (Daniel Sanahuja García y Natalia Galaktionova). Podría estar vinculado por hipótesis a entornos de diseño o tecnológicos, aunque requiere cautela por ser una empresa menor.
 
 ------------------------------------------------------------
 Esto es una sugerencia, no un cribado. El listado completo va debajo
